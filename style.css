@@ -232,7 +232,7 @@ footer .content {
 
 #casino .content:nth-child(1) {
   text-align: center;
-  background: url('../img/machine.png') no-repeat 50% 80px;
+  background: url('./img/machine.png') no-repeat 50% 80px;
   background-position-x: calc(50% + 30px);
   min-height: 580px;
 }
